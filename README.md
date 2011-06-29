@@ -13,14 +13,14 @@ saves them as waveform, encodes them (MP3/Ogg), and submits them to OpenWatch.ne
 **TODO**
 
 ## Development Resources
-Server:
+* Server:
     * http://jeremy-mcnamara.com/asterisk/how-to-configure-asterisk/
-Dialplan Language:
+* Dialplan Language:
     * http://www.voip-info.org/tiki-index.php?page#Asterisk%20config%20extensions.conf
     * http://cdn.oreilly.com/books/9780596510480.pdf
-Client (Android):
+* Client (Android):
     * http://developer.android.com/resources/samples/SipDemo/index.html (Native, 2.3 only)
     * http://sipdroid.org/
-Client (iPhone):
+* Client (iPhone):
     * http://code.google.com/p/siphon/
     * https://github.com/pzion/miumiu (IAX ??)
